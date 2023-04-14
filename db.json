@@ -1,0 +1,42 @@
+{
+	"products": [
+		{
+			"id": 1,
+			"title": "Parental Guidance",
+			"price": 1322,
+			"description": "http://dummyimage.com/133x100.png/dddddd/000000"
+		},
+		{
+			"id": 2,
+			"title": "Mummy Returns, The",
+			"price": 1373,
+			"description": "http://dummyimage.com/174x100.png/dddddd/000000"
+		},
+		{
+			"id": 3,
+			"title": "The Finzi Detective Agency",
+			"price": 1525,
+			"description": "http://dummyimage.com/210x100.png/ff4444/ffffff"
+		}
+	],
+	"featured-products": [
+		{
+			"id": 1,
+			"title": "Street Fighter: The Legend of Chun-Li",
+			"price": 1433,
+			"description": "http://dummyimage.com/239x100.png/cc0000/ffffff"
+		},
+		{
+			"id": 2,
+			"title": "Jack Frost",
+			"price": 1278,
+			"description": "http://dummyimage.com/196x100.png/cc0000/ffffff"
+		},
+		{
+			"id": 3,
+			"title": "Fuzz",
+			"price": 1719,
+			"description": "http://dummyimage.com/195x100.png/cc0000/ffffff"
+		}
+	]
+}
